@@ -1,8 +1,42 @@
+# RADAR TECNOLOGICO
+###### by Alan
+
+# HERRAMIENTAS
+
+## ADOPTAR
+ - gedit
+ - eclipse
+ - android studio
+ 
+## ENSAYAR
+ - Kwrite
+ - Linea de comandos
+ 
+## EVITAR
+ - VIM (editor de textos)
+
+ 
+ 
+# LENGUAJES Y PARADIGMAS
+
+## ADOPTAR
+ - gedit
+ - eclipse
+ - android studio
+ 
+## ENSAYAR
+ - Kwrite
+ - Linea de comandos
+ 
+## EVITAR
+ - VIM (editor de textos)
+
+
 # TÉCNICAS
 
 
 ## ADOPTAR
- - Pipelines como código
+ - 
  
 ## ENSAYAR
  - APIs como producto
