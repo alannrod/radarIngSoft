@@ -20,41 +20,44 @@
 # LENGUAJES Y PARADIGMAS
 
 ## ADOPTAR
- - gedit
- - eclipse
- - android studio
+ - Java
+ - C
+ - C++
+ - Haskell
+ - Smalltalk
  
 ## ENSAYAR
- - Kwrite
- - Linea de comandos
+ - Html
+ - Markdown
  
 ## EVITAR
- - VIM (editor de textos)
+ - Python
 
 
 # TÉCNICAS
 
 
 ## ADOPTAR
- - 
+ - Programacion de a pares
+ - modularizacion
+ - objetos/mensajes
  
 ## ENSAYAR
- - APIs como producto
- - 
+ - manejo de bases de datos
+ - tipos de persistencia
  
 ## EVITAR
+ - 
 
 
 # PLATAFORMAS
 
 ## ADOPTAR
- - Modelos de seguridad de Linux
+ - Linux modo grafico
+ - Windows
  
 ## ENSAYAR
- -  Lambda
-
-## EVUALUAR
- - Cloud-based image comprehension  
+ - Linux linea de comandos
 
 ## EVITAR
- - CMS como plataforma
+ - android
